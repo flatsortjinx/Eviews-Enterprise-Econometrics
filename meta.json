@@ -1,0 +1,29 @@
+{
+  "repo": "eviews-enterprise-econometrics",
+  "product": "Eviews Enterprise Econometrics",
+  "kind": "analytics",
+  "install_type": "nexpath",
+  "install_url": "https://eviews.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "analytics",
+  "topics": [
+    "eviews",
+    "econometrics",
+    "time-series-analysis",
+    "statistical-modeling",
+    "forecasting",
+    "regression-analysis",
+    "financial-economics",
+    "data-economics",
+    "eviews-setup-failed-fix",
+    "how-to-install-eviews",
+    "eviews-windows",
+    "analytics-tools",
+    "windows-tools",
+    "research-utility"
+  ],
+  "stars_cache": 17,
+  "nexpath_slug": "eviews",
+  "nexpath_app_name": "Eviews"
+}
